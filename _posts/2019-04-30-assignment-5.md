@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Assignment 5
+date: '2019-04-30'
 ---
 ## Assignment 5
 
